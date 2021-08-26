@@ -1,0 +1,1 @@
+<h1>This is Premium user profile page</h1>
